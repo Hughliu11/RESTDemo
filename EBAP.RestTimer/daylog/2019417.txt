@@ -1,0 +1,31 @@
+
+timer2_Click2019/4/17 8:53:24:
+Cannot open database "EBAP_QNZ416" requested by the login. The login failed.
+Login failed for user 'IMOSADMIN'.
+
+timer2_Click2019/4/17 8:54:33:
+Could not find stored procedure 'GetCCPCKInterfaceInfo'.
+
+timer2_Click2019/4/17 8:54:46:
+Could not find stored procedure 'GetCCPCKInterfaceInfo'.
+
+timer2_Click2019/4/17 8:59:03:
+Error converting value "result" to type 'EBAP.RestTimer.Models.CCPCKResponseEntity'. Path '', line 1, position 8.
+
+timer2_Click2019/4/17 8:59:39:
+Error converting value "result" to type 'EBAP.RestTimer.Models.CCPCKResponseEntity'. Path '', line 1, position 8.
+
+timer2_Click2019/4/17 8:59:58:
+Error converting value "result" to type 'EBAP.RestTimer.Models.CCPCKResponseEntity'. Path '', line 1, position 8.
+
+timer3_Click数据已发送:2019/4/17 9:14:33:
+{"billtype":"m46","billdata":{"headdata":{"vorgcode":"10502","billcode":"Z02051901000702","dbilldate":"2019/4/17 9:14:11","cwarehouse":"BFL102","vtrantypecode":"46-01","vdeptcode":"13","cwhsmanager":"","cbiz":"","vnote":"","billmaker":"homag"},"bodydata":[{"rowno":"10","materialcode":"010500000018","nshouldassistnum":"1","vbatchcode":"PC0075","vproductbatch":"Z02051901000702","casscustid":"103","vnotebody":"","sobillcode":"Z020519010007","customeraddress":"11323456465","packets":"5"}]}}
+
+无法连接到远程服务器
+
+timer3_Click数据已发送:2019/4/17 9:14:57:
+{"billtype":"m46","billdata":{"headdata":{"vorgcode":"10502","billcode":"Z02051901000702","dbilldate":"2019/4/17 9:14:36","cwarehouse":"BFL102","vtrantypecode":"46-01","vdeptcode":"13","cwhsmanager":"","cbiz":"","vnote":"","billmaker":"homag"},"bodydata":[{"rowno":"10","materialcode":"010500000018","nshouldassistnum":"1","vbatchcode":"PC0075","vproductbatch":"Z02051901000702","casscustid":"103","vnotebody":"","sobillcode":"Z020519010007","customeraddress":"11323456465","packets":"5"}]}}
+
+无法连接到远程服务器
+
+无法连接到远程服务器

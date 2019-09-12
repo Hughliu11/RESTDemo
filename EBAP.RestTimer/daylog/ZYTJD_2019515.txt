@@ -1,0 +1,27 @@
+
+timer3_ZYTJD已发送数据:2019/5/15 10:20:49
+{"billtype":"ZYTJ","billdata":{"headdata":{"vorgcode":"10502","vbillcode":"A01021903004107","dbusinessdate":"2019-05-15","cperiod":"2018-12","ccostcentercode":"10501","ccostobjectcode":"010500000015-A01021903004107","vnote":""},"bodydata":[{"ccostcentercode":"10501","cactivitycode":"01","nnum":"0.705719842883945","vnote":""},{"ccostcentercode":"10501","cactivitycode":"08","nnum":"8.10939204692841","vnote":""},{"ccostcentercode":"10501","cactivitycode":"21","nnum":"21.0720002651215","vnote":""}]}}
+
+timer3_ZYTJD2019/5/15 10:21:21:
+未将对象引用设置到对象的实例。
+
+timer3_ZYTJD已发送数据:2019/5/15 10:28:20
+{"billtype":"ZYTJ","billdata":{"headdata":{"vorgcode":"10502","vbillcode":"A01021903004107","dbusinessdate":"2019-05-15","cperiod":"2018-12","ccostcentercode":"10501","ccostobjectcode":"010500000015-A01021903004107","vnote":""},"bodydata":[{"ccostcentercode":"10501","cactivitycode":"01","nnum":"0.705719842883945","vnote":""},{"ccostcentercode":"10501","cactivitycode":"08","nnum":"8.10939204692841","vnote":""},{"ccostcentercode":"10501","cactivitycode":"21","nnum":"21.0720002651215","vnote":""}]}}
+
+timer3_ZYTJD2019/5/15 10:28:20:
+未将对象引用设置到对象的实例。
+
+timer3_ZYTJD已发送数据:2019/5/15 10:28:48
+{"billtype":"ZYTJ","billdata":{"headdata":{"vorgcode":"10502","vbillcode":"A01021903004107","dbusinessdate":"2019-05-15","cperiod":"2018-12","ccostcentercode":"10501","ccostobjectcode":"010500000015-A01021903004107","vnote":""},"bodydata":[{"ccostcentercode":"10501","cactivitycode":"01","nnum":"0.705719842883945","vnote":""},{"ccostcentercode":"10501","cactivitycode":"08","nnum":"8.10939204692841","vnote":""},{"ccostcentercode":"10501","cactivitycode":"21","nnum":"21.0720002651215","vnote":""}]}}
+
+timer3_ZYTJD已发送数据:2019/5/15 10:39:30
+{"billtype":"ZYTJ","billdata":{"headdata":{"vorgcode":"10502","vbillcode":"A01021903004107","dbusinessdate":"2019-05-15","cperiod":"2018-12","ccostcentercode":"10501","ccostobjectcode":"010500000015-A01021903004107","vnote":""},"bodydata":[{"ccostcentercode":"10501","cactivitycode":"01","nnum":"0.705719842883945","vnote":""},{"ccostcentercode":"10501","cactivitycode":"08","nnum":"8.10939204692841","vnote":""},{"ccostcentercode":"10501","cactivitycode":"21","nnum":"21.0720002651215","vnote":""}]}}
+
+timer3_ZYTJD返回消息处理:2019/5/15 10:39:30:
+U8返回信息不合规范
+
+timer3_ZYTJD已发送数据:2019/5/15 10:39:35
+{"billtype":"ZYTJ","billdata":{"headdata":{"vorgcode":"10502","vbillcode":"A01021903004107","dbusinessdate":"2019-05-15","cperiod":"2018-12","ccostcentercode":"10501","ccostobjectcode":"010500000015-A01021903004107","vnote":""},"bodydata":[{"ccostcentercode":"10501","cactivitycode":"01","nnum":"0.705719842883945","vnote":""},{"ccostcentercode":"10501","cactivitycode":"08","nnum":"8.10939204692841","vnote":""},{"ccostcentercode":"10501","cactivitycode":"21","nnum":"21.0720002651215","vnote":""}]}}
+
+timer3_ZYTJD返回消息处理:2019/5/15 10:39:35:
+U8返回信息不合规范

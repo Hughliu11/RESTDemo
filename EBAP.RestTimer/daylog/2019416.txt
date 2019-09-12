@@ -1,0 +1,144 @@
+
+timer2_Click2019/4/16 16:46:57
+无请求数据
+
+timer2_Click2019/4/16 16:47:03
+无请求数据
+
+timer2_Click2019/4/16 16:47:09
+无请求数据
+
+timer2_Click2019/4/16 16:47:15
+无请求数据
+
+timer2_Click2019/4/16 16:47:21
+无请求数据
+
+timer2_Click2019/4/16 16:47:27
+无请求数据
+
+timer2_Click2019/4/16 16:47:33
+无请求数据
+
+timer2_Click2019/4/16 16:47:39
+无请求数据
+
+timer2_Click2019/4/16 16:47:45
+无请求数据
+
+timer2_Click2019/4/16 16:47:51
+无请求数据
+
+timer2_Click2019/4/16 16:47:57
+无请求数据
+
+timer2_Click2019/4/16 16:48:03
+无请求数据
+
+timer2_Click2019/4/16 16:48:09
+无请求数据
+
+timer2_Click2019/4/16 16:48:15
+无请求数据
+
+timer2_Click2019/4/16 16:48:21
+无请求数据
+
+timer2_Click2019/4/16 16:48:27
+无请求数据
+
+timer2_Click2019/4/16 16:48:33
+无请求数据
+
+timer2_Click2019/4/16 16:48:39
+无请求数据
+
+timer2_Click2019/4/16 16:48:45
+无请求数据
+
+timer2_Click2019/4/16 16:48:51
+无请求数据
+
+timer2_Click2019/4/16 16:48:57
+无请求数据
+
+timer2_Click2019/4/16 16:49:03
+无请求数据
+
+timer2_Click2019/4/16 16:49:09
+无请求数据
+
+timer2_Click2019/4/16 16:49:15
+无请求数据
+
+timer2_Click2019/4/16 16:49:21
+无请求数据
+
+timer2_Click2019/4/16 16:49:27
+无请求数据
+
+timer2_Click2019/4/16 16:49:33
+无请求数据
+
+timer2_Click2019/4/16 16:49:39
+无请求数据
+
+timer2_Click2019/4/16 16:49:45
+无请求数据
+
+timer2_Click2019/4/16 16:49:51
+无请求数据
+
+timer2_Click2019/4/16 16:49:57
+无请求数据
+
+timer2_Click2019/4/16 16:50:03
+无请求数据
+
+timer2_Click2019/4/16 16:50:09
+无请求数据
+
+timer2_Click2019/4/16 16:50:15
+无请求数据
+
+timer2_Click2019/4/16 16:50:21
+无请求数据
+
+timer2_Click2019/4/16 16:50:27
+无请求数据
+
+无法连接到远程服务器
+
+无法连接到远程服务器
+
+无法连接到远程服务器
+
+
+
+{"billtype":"m46","billdata":{"headdata":{"vorgcode":"10502","billcode":"A01021903000601","dbilldate":"2019/4/16 17:27:49","cwarehouse":"BFL102","vtrantypecode":"46-01","vdeptcode":"13","cwhsmanager":"","cbiz":"","vnote":"","billmaker":"homag"},"bodydata":[{"rowno":"10","materialcode":"","nshouldassistnum":"1","vbatchcode":"A01021903000601","vproductbatch":"A01021903000601","casscustid":"02031944","vnotebody":"","sobillcode":"A010219030006","customeraddress":"崇贤北马桥20号","packets":"18"}]}}
+
+{"billtype":"m46","billdata":{"headdata":{"vorgcode":"10502","billcode":"A01041902000701","dbilldate":"2019/4/16 17:27:52","cwarehouse":"BFL102","vtrantypecode":"46-01","vdeptcode":"13","cwhsmanager":"","cbiz":"","vnote":"","billmaker":"homag"},"bodydata":[{"rowno":"10","materialcode":"","nshouldassistnum":"12","vbatchcode":"A01041902000701","vproductbatch":"A01041902000701","casscustid":"02030578","vnotebody":"","sobillcode":"A010419020007","customeraddress":"云溪新语7-1-202","packets":"12"}]}}
+
+{"billtype":"m46","billdata":{"headdata":{"vorgcode":"10502","billcode":"A01041902000703","dbilldate":"2019/4/16 17:27:56","cwarehouse":"BFL102","vtrantypecode":"46-01","vdeptcode":"13","cwhsmanager":"","cbiz":"","vnote":"","billmaker":"homag"},"bodydata":[{"rowno":"10","materialcode":"","nshouldassistnum":"2","vbatchcode":"A01041902000703","vproductbatch":"A01041902000703","casscustid":"02030578","vnotebody":"","sobillcode":"A010419020007","customeraddress":"云溪新语7-1-202","packets":"4"}]}}
+
+{"billtype":"m46","billdata":{"headdata":{"vorgcode":"10502","billcode":"A01041902000704","dbilldate":"2019/4/16 17:27:59","cwarehouse":"BFL102","vtrantypecode":"46-01","vdeptcode":"13","cwhsmanager":"","cbiz":"","vnote":"","billmaker":"homag"},"bodydata":[{"rowno":"10","materialcode":"","nshouldassistnum":"6","vbatchcode":"A01041902000704","vproductbatch":"A01041902000704","casscustid":"02030578","vnotebody":"","sobillcode":"A010419020007","customeraddress":"云溪新语7-1-202","packets":"6"}]}}
+
+{"billtype":"m46","billdata":{"headdata":{"vorgcode":"10502","billcode":"A01041902000705","dbilldate":"2019/4/16 17:28:02","cwarehouse":"BFL102","vtrantypecode":"46-01","vdeptcode":"13","cwhsmanager":"","cbiz":"","vnote":"","billmaker":"homag"},"bodydata":[{"rowno":"10","materialcode":"","nshouldassistnum":"5","vbatchcode":"A01041902000705","vproductbatch":"A01041902000705","casscustid":"02030578","vnotebody":"","sobillcode":"A010419020007","customeraddress":"云溪新语7-1-202","packets":"6"}]}}
+
+{"billtype":"m46","billdata":{"headdata":{"vorgcode":"10502","billcode":"A01041902000706","dbilldate":"2019/4/16 17:28:05","cwarehouse":"BFL102","vtrantypecode":"46-01","vdeptcode":"13","cwhsmanager":"","cbiz":"","vnote":"","billmaker":"homag"},"bodydata":[{"rowno":"10","materialcode":"","nshouldassistnum":"11","vbatchcode":"A01041902000706","vproductbatch":"A01041902000706","casscustid":"02030578","vnotebody":"","sobillcode":"A010419020007","customeraddress":"云溪新语7-1-202","packets":"14"}]}}
+
+{"billtype":"m46","billdata":{"headdata":{"vorgcode":"10502","billcode":"A01041902000707","dbilldate":"2019/4/16 17:28:08","cwarehouse":"BFL102","vtrantypecode":"46-01","vdeptcode":"13","cwhsmanager":"","cbiz":"","vnote":"","billmaker":"homag"},"bodydata":[{"rowno":"10","materialcode":"","nshouldassistnum":"17","vbatchcode":"A01041902000707","vproductbatch":"A01041902000707","casscustid":"02030578","vnotebody":"","sobillcode":"A010419020007","customeraddress":"云溪新语7-1-202","packets":"8"}]}}
+
+{"billtype":"m46","billdata":{"headdata":{"vorgcode":"10502","billcode":"A01041903001201","dbilldate":"2019/4/16 17:28:11","cwarehouse":"BFL102","vtrantypecode":"46-01","vdeptcode":"13","cwhsmanager":"","cbiz":"","vnote":"","billmaker":"homag"},"bodydata":[{"rowno":"10","materialcode":"010500000015","nshouldassistnum":"10","vbatchcode":"A01041903001201","vproductbatch":"A01041903001201","casscustid":"02030578","vnotebody":"","sobillcode":"A010419030012","customeraddress":"恒大水晶城14-1-2001","packets":"14"}]}}
+
+{"billtype":"m46","billdata":{"headdata":{"vorgcode":"10502","billcode":"A01041903001202","dbilldate":"2019/4/16 17:28:14","cwarehouse":"BFL102","vtrantypecode":"46-01","vdeptcode":"13","cwhsmanager":"","cbiz":"","vnote":"","billmaker":"homag"},"bodydata":[{"rowno":"10","materialcode":"010500000015","nshouldassistnum":"8","vbatchcode":"A01041903001202","vproductbatch":"A01041903001202","casscustid":"02030578","vnotebody":"","sobillcode":"A010419030012","customeraddress":"恒大水晶城14-1-2001","packets":"4"}]}}
+
+{"billtype":"m46","billdata":{"headdata":{"vorgcode":"10502","billcode":"A01041903001203","dbilldate":"2019/4/16 17:28:17","cwarehouse":"BFL102","vtrantypecode":"46-01","vdeptcode":"13","cwhsmanager":"","cbiz":"","vnote":"","billmaker":"homag"},"bodydata":[{"rowno":"10","materialcode":"010500000015","nshouldassistnum":"4","vbatchcode":"A01041903001203","vproductbatch":"A01041903001203","casscustid":"02030578","vnotebody":"","sobillcode":"A010419030012","customeraddress":"恒大水晶城14-1-2001","packets":"10"}]}}
+
+{"billtype":"m46","billdata":{"headdata":{"vorgcode":"10502","billcode":"A01041903001204","dbilldate":"2019/4/16 17:28:20","cwarehouse":"BFL102","vtrantypecode":"46-01","vdeptcode":"13","cwhsmanager":"","cbiz":"","vnote":"","billmaker":"homag"},"bodydata":[{"rowno":"10","materialcode":"010500000015","nshouldassistnum":"5","vbatchcode":"A01041903001204","vproductbatch":"A01041903001204","casscustid":"02030578","vnotebody":"","sobillcode":"A010419030012","customeraddress":"恒大水晶城14-1-2001","packets":"8"}]}}
+
+{"billtype":"m46","billdata":{"headdata":{"vorgcode":"10502","billcode":"A01041903001205","dbilldate":"2019/4/16 17:28:23","cwarehouse":"BFL102","vtrantypecode":"46-01","vdeptcode":"13","cwhsmanager":"","cbiz":"","vnote":"","billmaker":"homag"},"bodydata":[{"rowno":"10","materialcode":"010500000015","nshouldassistnum":"2","vbatchcode":"A01041903001205","vproductbatch":"A01041903001205","casscustid":"02030578","vnotebody":"","sobillcode":"A010419030012","customeraddress":"恒大水晶城14-1-2001","packets":"6"}]}}
+
+{"billtype":"m46","billdata":{"headdata":{"vorgcode":"10502","billcode":"A01041903001206","dbilldate":"2019/4/16 17:28:26","cwarehouse":"BFL102","vtrantypecode":"46-01","vdeptcode":"13","cwhsmanager":"","cbiz":"","vnote":"","billmaker":"homag"},"bodydata":[{"rowno":"10","materialcode":"010500000015","nshouldassistnum":"8","vbatchcode":"A01041903001206","vproductbatch":"A01041903001206","casscustid":"02030578","vnotebody":"","sobillcode":"A010419030012","customeraddress":"恒大水晶城14-1-2001","packets":"6"}]}}
+
+{"billtype":"m46","billdata":{"headdata":{"vorgcode":"10502","billcode":"A01041903001301","dbilldate":"2019/4/16 17:28:29","cwarehouse":"BFL102","vtrantypecode":"46-01","vdeptcode":"13","cwhsmanager":"","cbiz":"","vnote":"","billmaker":"homag"},"bodydata":[{"rowno":"10","materialcode":"010500000015","nshouldassistnum":"1","vbatchcode":"A01041903001301","vproductbatch":"A01041903001301","casscustid":"02030578","vnotebody":"","sobillcode":"A010419040004","customeraddress":"新时代家居馆五楼","packets":"10"}]}}

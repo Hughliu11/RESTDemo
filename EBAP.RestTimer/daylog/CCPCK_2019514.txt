@@ -1,0 +1,8 @@
+
+timer3_Click2019/5/14 11:27:09:
+The reader has been disposed; this can happen after all data has been consumed
+对象名:“Dapper.SqlMapper+GridReader”。
+
+无法连接到远程服务器
+
+无法连接到远程服务器

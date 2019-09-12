@@ -1,0 +1,104 @@
+
+timer1_材料出库_已发送数据:2019/6/13 8:45:53
+{"billtype":"m4d","billdata":{"headdata":{"vorgcode":"10502","vbillcode":"PC0061","dbilldate":"2018/12/26 0:00:00","cwarehouse":"BFL101","vtrantypecode":"4D-Cxx-04","vdeptcode":"13","cwhsmanager":"","cbiz":"","vnote":"","billmaker":"admin"},"bodydata":[{"materialcode":"090102000057","nshouldassistnum":"1","ccostobject":"","vproductbatch":"","vnotebody":""}]}}
+
+timer1_材料出库_返回消息处理:2019/6/13 8:45:53:
+U8返回信息不合规范
+
+timer1_材料出库_已发送数据:2019/6/13 8:46:00
+{"billtype":"m4d","billdata":{"headdata":{"vorgcode":"10502","vbillcode":"PC0062","dbilldate":"2018/12/26 0:00:00","cwarehouse":"BFL101","vtrantypecode":"4D-Cxx-04","vdeptcode":"13","cwhsmanager":"","cbiz":"","vnote":"","billmaker":"admin"},"bodydata":[{"materialcode":"090102000057","nshouldassistnum":"1","ccostobject":"","vproductbatch":"","vnotebody":""}]}}
+
+timer1_材料出库_返回消息处理:2019/6/13 8:46:00:
+U8返回信息不合规范
+
+timer1_材料出库_已发送数据:2019/6/13 8:46:05
+{"billtype":"m4d","billdata":{"headdata":{"vorgcode":"10502","vbillcode":"PC0070","dbilldate":"2019/1/2 0:00:00","cwarehouse":"BFL101","vtrantypecode":"4D-Cxx-04","vdeptcode":"13","cwhsmanager":"","cbiz":"","vnote":"","billmaker":"admin"},"bodydata":[{"materialcode":"090102000057","nshouldassistnum":"1","ccostobject":"","vproductbatch":"","vnotebody":""}]}}
+
+timer1_材料出库_返回消息处理:2019/6/13 8:46:05:
+U8返回信息不合规范
+
+timer1_CLCKD:2019/6/13 8:46:08无请求数据!!
+
+timer1_CLCKD:2019/6/13 8:46:11无请求数据!!
+
+timer1_CLCKD:2019/6/13 8:46:14无请求数据!!
+
+timer1_CLCKD:2019/6/13 8:46:17无请求数据!!
+
+timer1_CLCKD:2019/6/13 8:46:20无请求数据!!
+
+timer1_CLCKD:2019/6/13 8:46:23无请求数据!!
+
+timer1_CLCKD:2019/6/13 8:46:26无请求数据!!
+
+timer1_CLCKD:2019/6/13 8:46:29无请求数据!!
+
+timer1_CLCKD:2019/6/13 8:46:32无请求数据!!
+
+timer1_CLCKD:2019/6/13 8:46:35无请求数据!!
+
+timer1_CLCKD:2019/6/13 8:46:38无请求数据!!
+
+timer1_CLCKD:2019/6/13 8:46:41无请求数据!!
+
+timer1_CLCKD:2019/6/13 8:46:44无请求数据!!
+
+timer1_CLCKD:2019/6/13 8:46:47无请求数据!!
+
+timer1_CLCKD:2019/6/13 8:46:50无请求数据!!
+
+timer1_CLCKD:2019/6/13 8:46:53无请求数据!!
+
+timer1_CLCKD:2019/6/13 8:47:34无请求数据!!
+
+timer1_材料出库_已发送数据:2019/6/13 9:00:46
+
+
+timer1_材料出库_返回消息处理:2019/6/13 9:00:46:
+U8返回信息不合规范
+
+timer1_材料出库_已发送数据:2019/6/13 9:00:55
+
+
+timer1_材料出库_返回消息处理:2019/6/13 9:00:55:
+U8返回信息不合规范
+
+timer1_材料出库_已发送数据:2019/6/13 9:00:59
+
+
+timer1_材料出库_返回消息处理:2019/6/13 9:00:59:
+U8返回信息不合规范
+
+timer1_CLCKD:2019/6/13 9:01:02无请求数据!!
+
+timer1_CLCKD:2019/6/13 9:01:05无请求数据!!
+
+timer1_CLCKD:2019/6/13 9:01:08无请求数据!!
+
+timer1_CLCKD:2019/6/13 9:01:11无请求数据!!
+
+timer1_CLCKD:2019/6/13 9:01:14无请求数据!!
+
+timer1_CLCKD:2019/6/13 9:01:17无请求数据!!
+
+timer1_CLCKD:2019/6/13 9:01:20无请求数据!!
+
+timer1_CLCKD:2019/6/13 9:01:23无请求数据!!
+
+timer1_CLCKD:2019/6/13 9:01:26无请求数据!!
+
+timer1_CLCKD:2019/6/13 9:01:29无请求数据!!
+
+timer1_CLCKD:2019/6/13 9:01:32无请求数据!!
+
+timer1_CLCKD:2019/6/13 9:01:35无请求数据!!
+
+timer1_CLCKD:2019/6/13 9:01:38无请求数据!!
+
+timer1_CLCKD:2019/6/13 9:01:41无请求数据!!
+
+timer1_CLCKD:2019/6/13 9:01:44无请求数据!!
+
+timer1_CLCKD:2019/6/13 9:01:47无请求数据!!
+
+timer1_CLCKD:2019/6/13 9:01:50无请求数据!!
